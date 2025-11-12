@@ -75,9 +75,6 @@ cataclysm:soul_black_smith
 cataclysm:sunken_city
 endervillages:village_end
 epic:witch_hut
-golemdungeons:abandoned_factory
-golemdungeons:piglin_factory
-golemdungeons:sculk_factory
 minecraft:ancient_city
 minecraft:bastion_remnant
 minecraft:buried_treasure

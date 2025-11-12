@@ -128,11 +128,17 @@
     "crafting_monitor": true,
     "part_name": true
   },
+  "modularrouters": {
+    "router": true
+  },
   "ars_nouveau": {
     "mob_jar": true
   },
   "jadeaddons": {
     "equipment_requirement": ""
+  },
+  "jadeaddons.lootr": {
+    "info": true
   },
   "mekanism": {
     "chemical": true,
@@ -140,6 +146,9 @@
     "fluid": true,
     "energy": true,
     "tooltip_renderer": true
+  },
+  "pipez": {
+    "pipe": true
   },
   "astages": {
     "block_component_provider": true

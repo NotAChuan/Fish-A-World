@@ -63,6 +63,7 @@
   "jadeaddons.create:package": null,
   "jadeaddons.create:placard": null,
   "jadeaddons.create:table_cloth": null,
+  "jadeaddons.lootr:info": null,
   "jadeaddons.lootr:inventory": null,
   "mekanism:data_provider": null,
   "mekanism:entity_data_provider": null,
@@ -113,9 +114,11 @@
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
   "minecraft:zombie_villager": null,
+  "modularrouters:router": null,
   "moofluids:fluid_cow": null,
   "moofluids:fluid_cow_jar": null,
   "occultism:foliot": null,
   "occultism:sacrificial": null,
+  "pipez:pipe": null,
   "spaceploitation:planet_simulator": null
 }

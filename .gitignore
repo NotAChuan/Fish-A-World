@@ -24,6 +24,7 @@
 /usernamecache.json
 /config/*
 !/config/jade/
+!/config/bbl/
 !/config/skyblockbuilder/
 !/config/healthbars-client.toml
 !/config/stardew_fishing-server.toml
