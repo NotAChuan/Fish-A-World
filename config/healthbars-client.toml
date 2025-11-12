@@ -106,7 +106,7 @@ any_rendering = true
 	#Default Value: 96
 	# Default: 96
 	# Range: > 0
-	max_render_distance = 96
+	max_render_distance = 16
 	#Offset in pixels on the vertical axis from default position.
 	#Default Value: 0
 	# Default: 0
