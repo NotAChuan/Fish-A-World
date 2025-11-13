@@ -6,7 +6,7 @@
   // These are resource lists. See https://moddingx.org/libx/org/moddingx/libx/util/data/ResourceList.html#use_resource_lists_in_configs
   "biomes": {
     "minecraft:overworld": {
-      "allow_list": false,
+      "allow_list": true,
       "elements": [
         "minecraft:*ocean*"
       ]
@@ -49,7 +49,7 @@
   "seaHeight": 63,
   
   // Should a surface be generated in the dimensions? [default: false]
-  "surface": false,
+  "surface": true,
   
   // The block settings for generating the different dimensions surfaces.
   // Same format as flat world generation settings (blocks only)
@@ -60,7 +60,7 @@
         },
       {
         "block": "minecraft:sandstone",
-        "height": 132
+        "height": 8
         },
       {
         "block": "minecraft:sand",
@@ -69,7 +69,7 @@
         "blocks": [
           {
             "block": "minecraft:gravel",
-            "weight": 99
+            "weight": 6
             },
           {
             "block": "minecraft:cobblestone"
@@ -78,7 +78,7 @@
       }
       },{
         "block": "minecraft:water",
-        "height": 55
+        "height": 114
         }],
       "minecraft:the_nether": [],
       "minecraft:the_end": []

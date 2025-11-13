@@ -14,17 +14,22 @@
   //     "offset": [ 0, 0, 0 ],
   //     "surroundingBlocks": "default"
   // }
-  "mainSpawnIsland": null,
+  "mainSpawnIsland": {
+      "name": "base",
+      "desc": "",
+      "file": "base.snbt",
+      "spawns": "default",
+      "offset": [ 0, -2, 0 ],
+      "surroundingBlocks": "default"
+  },
   
   // A list of possible spawn points.
   // You may also directly use these in the template config, or use a reference created here.
   "spawnPointReferences": {
     "default": {
-      "south": [
-        [ 6, 3, 5 ]
-      ],
+      "south": [],
       "west": [],
-      "north": [],
+      "north": [ [ 25, 0, 22 ]],
       "east": []
     }
   },
@@ -49,7 +54,9 @@
   // A list of blocks which can be used to surround islands/caves.
   // You may also directly use these in the template config, or use a reference created here.
   "surroundingBlockReferences": {
-    "default": {}
+    "default": {
+      "margin": 0
+    }
   },
   
   // The list of templates being available. The first entry is the default template.

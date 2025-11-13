@@ -26,6 +26,7 @@
 !/config/jade/
 !/config/bbl/
 !/config/skyblockbuilder/
+!/config/defaultworldtype/
 !/config/healthbars-client.toml
 !/config/stardew_fishing-server.toml
 
