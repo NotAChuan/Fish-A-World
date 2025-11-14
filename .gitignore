@@ -29,5 +29,6 @@
 !/config/defaultworldtype/
 !/config/healthbars-client.toml
 !/config/stardew_fishing-server.toml
+!/config/simplelootviewer.json
 
 .probe
