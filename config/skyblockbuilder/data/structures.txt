@@ -75,6 +75,8 @@ cataclysm:soul_black_smith
 cataclysm:sunken_city
 endervillages:village_end
 epic:witch_hut
+fishofthieves:guardian_fruit_tree
+fishofthieves:seapost
 minecraft:ancient_city
 minecraft:bastion_remnant
 minecraft:buried_treasure

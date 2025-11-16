@@ -2,5 +2,29 @@
 // https://wiki.chaotictrials.de/docs/wiki/skyblock-builder/packdev/configs/starting-inventory
 // If this page isn't available, go to the project page (where you downloaded the file), and click on the wiki
 {
-  "items": []
+  "items": [
+    {
+      "Slot": "mainhand",
+      "Item": {
+        "id": "ftbquests:book",
+        "count": 1
+      }
+    },
+     {
+      "Slot": "mainhand",
+      "Item": {
+        "id": "akashictome:tome",
+        "count": 1
+      }
+    },{
+      "Slot": "mainhand",
+      "Item": {
+        "id": "minecraft:fishing_rod",
+        "count": 1,
+        "components": {
+          "minecraft:unbreakable": {}
+        }
+      }
+    }
+  ]
 }

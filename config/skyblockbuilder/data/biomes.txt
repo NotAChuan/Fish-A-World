@@ -1,5 +1,6 @@
 ae2:spatial_storage
 ars_nouveau:archwood_forest
+fishofthieves:tropical_island
 minecraft:badlands
 minecraft:bamboo_jungle
 minecraft:basalt_deltas

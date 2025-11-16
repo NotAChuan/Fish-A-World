@@ -1,4 +1,4 @@
-67 possible biomes found:
+68 possible biomes found:
 - "ars_nouveau:archwood_forest"
 - "minecraft:badlands"
 - "minecraft:bamboo_jungle"
@@ -59,6 +59,7 @@
 - "minecraft:taiga"
 - "minecraft:the_end"
 - "minecraft:the_void"
+- "fishofthieves:tropical_island"
 - "minecraft:warm_ocean"
 - "minecraft:warped_forest"
 - "minecraft:windswept_forest"

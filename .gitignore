@@ -1,3 +1,4 @@
+/AAA/
 /.mixin.out/
 /.vscode/
 /backups/
@@ -19,7 +20,8 @@
 /minecraftinstance.json
 /options.txt
 /patchouli_data.json
-/TODU.txt
+/TODU.md
+/.markdownlint.json
 /usercache.json
 /usernamecache.json
 /config/*

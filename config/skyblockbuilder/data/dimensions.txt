@@ -1,5 +1,5 @@
 minecraft:overworld
-minecraft:the_nether
 miningworld:digging_dimension
 minecraft:the_end
+minecraft:the_nether
 ae2:spatial_storage
